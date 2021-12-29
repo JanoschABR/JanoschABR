@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janosch (@JanoschABR)
-- 👀 I’m interested in Programming, Game Development.
+- 👀 I’m interested in Programming and Game Development.
 - 🌱 I’m currently learning nothing.
 
 <!---
