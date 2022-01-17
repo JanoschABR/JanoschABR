@@ -4,7 +4,7 @@
 		<link rel="stylesheet" type="text/css" href="loading.css?3" />
 		<script type="text/javascript" src="js/thirdparty/jquery.js"></script>
 	</head>
-	<body>
+	<body class="dark">
 		<div id="background">
 			<div id="container">
 				<img src='https://avatars.githubusercontent.com/u/71182595?v=4' class="bounce"/>
@@ -23,19 +23,6 @@
 
 		</div>
 		<script type="text/javascript">
-			window.onload = function()
-			{
-				//var isHalloween = false;
-
-				//var today = new Date()
-				//if ( today.getMonth() == 10 && today.getDate() >= 15 || today.getMonth() == 11 && today.getDate() <= 5 ) isHalloween = true;
-
-				//if ( isHalloween || ( today.getHours() >= 19 || today.getHours() <= 7 ) )
-				//{
-				$("body").addClass( "dark" );
-				//}
-			}
-
 			function GameDetails( servername, serverurl, mapname, maxplayers, steamid, gamemode, volume, lang, gamemodeNice )
 			{
 				$("#serverName").text( servername );
