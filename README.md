@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Janosch (@JanoschABR)
-- 👀 I’m interested in Programming and Game Development.
-- 🌱 I’m currently learning nothing.
+- 👀 I’m interested in being alive.
+- 🌱 I’m currently learning how to breathe.
 
 <!---
 JanoschABR/JanoschABR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
