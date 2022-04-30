@@ -1,2 +1,2 @@
-My name is Janosch and I like doing computer related stuff, such as programming and playing games.
-I have messed around with Robotics before and have a good amount of experience working with micro-controllers.
+I'm Janosch. I do things sometimes.  
+Currently miserably failing at getting a [technical college entrance qualification](https://en.wikipedia.org/wiki/Fachoberschule).
